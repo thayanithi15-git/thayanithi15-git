@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thayanithi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0357F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Engineering;DSA+Enthusiast;Tech+Enthusiast+with+a+Focus+on+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0357F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Engineering;DSA+Enthusiast;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
