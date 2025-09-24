@@ -1,14 +1,30 @@
-# 👋 Hey there! I'm Thayanithi
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20To%20My%20Digital%20Space&fontSize=50&fontAlignY=35&fontColor=ffffff" width="100%"/>
 </div>
 
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+  <!-- Profile Image with rounded corners -->
+  <img src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg" 
+       width="100" height="100" 
+       style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
+       alt="Thayanithi" />
+
+  <!-- Greeting Text -->
+  <div>
+    <h1 style="margin: 0;">Hey there! I'm Thayanithi 👋</h1>
+  </div>
+
+</div>
+
+
+
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;MERN+Stack+Developer;Cloud+%26+Backend+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=650&lines=💻+Full+Stack+Developer;🎓+Computer+Science+Student;🌐+MERN+Stack+Developer;🤝+Collaborative+Worker" alt="Typing Animation" />
 </div>
+
 
 <br/>
 
@@ -20,9 +36,9 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+<table width="100%">
+  <tr style="height: 300px;"> <!-- Adjust height as needed -->
+    <td width="50%">
 
 **Full Stack Developer** passionate about creating scalable web applications
 
@@ -35,11 +51,12 @@
 **Continuous Learner** participating in coding challenges and building real-world projects
 
 </td>
-<td width="50%">
-  <img align="center" alt="Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</td>
-</tr>
+    <td width="50%" align="center" valign="middle">
+      <img alt="Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="250"/>
+    </td>
+  </tr>
 </table>
+
 
 <br/>
 
@@ -102,7 +119,7 @@
         <br><strong>CSS3</strong>
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
      width="48" height="48" alt="TailwindCSS" />
         <br><strong>Tailwind CSS</strong>
     </td>
@@ -189,8 +206,9 @@
         <br><strong>Zustand</strong>
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="REST API" />
-        <br><strong>REST APIs</strong>
+        <img src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" 
+     width="78" height="48" alt="Flask" />
+<br><strong>REST APIs</strong>
     </td>
 </tr>
 </table>
@@ -274,12 +292,14 @@ Built scalable applications using modern technology stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayanithi-s-293999296/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayanithi2006s@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thayanithi15-git)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thayanithi-dev.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayanithi15/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayanithi2006s@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thayanithi15-git)
+  [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1UfEaw-Vf4LLmN3NM60JHm-0aQZ_p5SEp/view)
 
 </div>
+
 
 <br/>
 
@@ -294,7 +314,8 @@ Built scalable applications using modern technology stack
 <br/>
 
 ---
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff&fontAlignY=78" />
 </div>
+
+
