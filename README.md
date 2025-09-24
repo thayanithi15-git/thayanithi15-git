@@ -102,7 +102,8 @@
         <br><strong>CSS3</strong>
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+     width="48" height="48" alt="TailwindCSS" />
         <br><strong>Tailwind CSS</strong>
     </td>
 </tr>
