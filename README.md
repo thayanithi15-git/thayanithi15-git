@@ -1,321 +1,259 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20To%20My%20Digital%20Space&fontSize=50&fontAlignY=35&fontColor=ffffff" width="100%"/>
-</div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- Profile Image with rounded corners -->
-  <img src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg" 
-       width="100" height="100" 
-       style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
-       alt="Thayanithi" />
-
-  <!-- Greeting Text -->
-  <div>
-    <h1 style="margin: 0;">Hey there! I'm Thayanithi 👋</h1>
-  </div>
+<!-- Futuristic Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=THAYANITHI&fontSize=90&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
 
-
+<!-- Animated Typing Banner -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Thayanithi+%F0%9F%91%8B;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+Cloud+Solutions+%7C+Mobile+Apps" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
+
+<!-- Profile Stats Cards -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br/>
+
+<!-- Quick Stats Banner -->
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=thayanithi15-git&color=00D9FF&style=for-the-badge&label=VISITORS)
+  ![GitHub Followers](https://img.shields.io/github/followers/thayanithi15-git?label=FOLLOWERS&style=for-the-badge&color=667eea&logo=github)
+  ![GitHub Stars](https://img.shields.io/github/stars/thayanithi15-git?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github)
+
+</div>
+
+<br/>
+
+<!-- About Me Section -->
+<div align="center">
+  
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **WHO AM I?**
+
+</div>
+
+<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const thayanithi = {
+    role: "Full Stack Developer",
+    education: "Computer Science Engineering",
+    location: "India 🇮🇳",
+    currentFocus: ["MERN Stack", "Cloud Solutions", "Mobile Development"],
+    languages: ["JavaScript", "TypeScript", "Python", "Java", "C"],
+    motto: "Code. Create. Innovate. Repeat.",
+    
+    lifePhilosophy: () => {
+        while(alive) {
+            eat();
+            sleep();
+            code();
+            repeat();
+        }
+    }
+};
+```
+
+<br clear="right"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=650&lines=💻+Full+Stack+Developer;🎓+Computer+Science+Student;🌐+MERN+Stack+Developer;🤝+Collaborative+Worker" alt="Typing Animation" />
+
+### 🎯 **WHAT I DO**
+
 </div>
 
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
-
-<br/>
-
-## 🚀 About Me
-
-<table width="100%">
-  <tr style="height: 300px;"> <!-- Adjust height as needed -->
-    <td width="50%">
-
-**Full Stack Developer** passionate about creating scalable web applications
-
-**Computer Science Engineering Student** with focus on modern development practices
-
-**Problem Solver** dedicated to writing clean, efficient code
-
-**Tech Enthusiast** always exploring new technologies and frameworks
-
-**Continuous Learner** participating in coding challenges and building real-world projects
+### 💻 **Frontend Wizard**
+Building responsive, intuitive interfaces with React, Next.js & React Native
 
 </td>
-    <td width="50%" align="center" valign="middle">
-      <img alt="Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="250"/>
-    </td>
-  </tr>
-</table>
+<td align="center" width="33%">
 
+### ⚙️ **Backend Architect**
+Designing scalable APIs and microservices with Node.js & Express
 
-<br/>
+</td>
+<td align="center" width="33%">
 
-## 🛠️ Tech Stack & Skills
+### ☁️ **Cloud Engineer**
+Deploying robust solutions on Google Cloud Platform
 
-<br/>
-
-### **Programming Languages**
-<div align="center">
-<table>
-<tr>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        <br><strong>C</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        <br><strong>Java</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br><strong>Python</strong>
-    </td>
+</td>
 </tr>
 </table>
-</div>
-
-<br/>
-
-### **Frontend Technologies**
-<div align="center">
-<table>
-<tr>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-        <br><strong>Next.js</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        <br><strong>React.js</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
-        <br><strong>React Native</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-        <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-        <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
-     width="48" height="48" alt="TailwindCSS" />
-        <br><strong>Tailwind CSS</strong>
-    </td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-### **Backend & Database**
-<div align="center">
-<table>
-<tr>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
-        <br><strong>Express.js</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-        <br><strong>PostgreSQL</strong>
-    </td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-### **Cloud & DevOps**
-<div align="center">
-<table>
-<tr>
-    <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
-        <br><strong>Google Cloud</strong>
-    </td>
-    <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="48" height="48" alt="BigQuery" />
-        <br><strong>BigQuery</strong>
-    </td>
-    <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-icon.svg" width="48" height="48" alt="Cloud Run" />
-        <br><strong>Cloud Run</strong>
-    </td>
-    <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br><strong>Git</strong>
-    </td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-### **Tools & Technologies**
-<div align="center">
-<table>
-<tr>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-        <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-        <br><strong>Postman</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="48" height="48" alt="JWT" />
-        <br><strong>JWT Auth</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Zustand" />
-        <br><strong>Zustand</strong>
-    </td>
-    <td align="center" width="100">
-        <img src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" 
-     width="78" height="48" alt="Flask" />
-<br><strong>REST APIs</strong>
-    </td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-| **Frontend Development** | **Backend Architecture** | **Cloud Solutions** | **Data Management** |
-|:------------------------:|:------------------------:|:-------------------:|:------------------:|
-| React Ecosystem | RESTful API Design | GCP Infrastructure | Database Design |
-| Next.js Applications | Authentication Systems | Cloud Run Deployment | MongoDB Operations |
-| Mobile App Development | Server Architecture | BigQuery Analytics | SQL Optimization |
-| State Management | Microservices | Scalable Solutions | Data Processing |
-
-</div>
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thayanithi15-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thayanithi15-git&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-
-**🚀 3+ Months Internship Experience**  
-Applied full-stack development skills in production environment
-
-**💡 #CrackYourInternship Challenge Participant**  
-Consistently solving DSA problems and improving problem-solving skills
-
-**🌟 Open Source Contributor**  
-Contributing to community projects and sharing knowledge
-
-**🎯 Multiple Project Portfolio**  
-Built scalable applications using modern technology stack
-
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
-
-<div align="center">
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b></em>
-</div>
-
-<br/>
-
-<div align="center">
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thayanithi-dev.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayanithi15/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayanithi2006s@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thayanithi15-git)
-  [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1UfEaw-Vf4LLmN3NM60JHm-0aQZ_p5SEp/view)
-
-</div>
-
 
 <br/>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=thayanithi15-git&color=667eea&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/thayanithi15-git?label=Followers&style=flat-square&color=blue&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/thayanithi15-git?label=Total+Stars&style=flat-square&color=yellow&logo=github)
+  ## 🛠️ **TECH ARSENAL**
+
+</div>
+
+<!-- Tech Stack with Icons -->
+<div align="center">
+
+### **Languages & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,react,nextjs,nodejs,express,mongodb,mysql,postgresql,html,css,tailwind&theme=dark&perline=8" />
+</p>
+
+### **Tools & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,gcp,firebase,vercel&theme=dark&perline=8" />
+</p>
 
 </div>
 
 <br/>
 
----
+<!-- Detailed Tech Stack -->
+<details>
+<summary><b>📦 Click to expand full tech stack</b></summary>
+<br/>
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Material-UI |
+| **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication, Microservices |
+| **Databases** | MongoDB, MySQL, PostgreSQL, BigQuery |
+| **Cloud & DevOps** | Google Cloud Platform, Cloud Run, Firebase, Vercel, Git |
+| **Languages** | JavaScript, TypeScript, Python, Java, C |
+| **State Management** | Zustand, Redux, Context API |
+| **Other Tools** | Postman, VS Code, npm, Docker |
+
+</details>
+
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff&fontAlignY=78" />
+  
+  ## 📊 **GITHUB ANALYTICS**
+
 </div>
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thayanithi15-git&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" />
+</div>
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+<!-- Trophy Section -->
+<div align="center">
+  
+  ## 🏆 **ACHIEVEMENTS UNLOCKED**
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=thayanithi15-git&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+<br/>
+
+<!-- Milestone Cards -->
+<div align="center">
+
+| 🎯 Milestone | 📈 Progress |
+|:------------|:-----------|
+| 🚀 **3+ Months Internship** | Full-stack development in production |
+| 💡 **#CrackYourInternship** | DSA problem-solving champion |
+| 🌟 **Open Source** | Active contributor & collaborator |
+| 🎨 **Project Portfolio** | Multiple production-ready applications |
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ## 🤝 **LET'S CONNECT**
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+</div>
+
+<div align="center">
+
+### 💬 **Feel free to reach out for collaborations, tech discussions, or just to say hi!**
+
+<br/>
+
+<a href="https://thayanithi-dev.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/thayanithi15/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:thayanithi2006s@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/thayanithi15-git" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://drive.google.com/file/d/1UfEaw-Vf4LLmN3NM60JHm-0aQZ_p5SEp/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  
+  ## 📈 **CODING ACTIVITY**
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&bg_color=0D1117&color=00D9FF&line=667eea&point=FFD700&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- Quote Section -->
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" />
+
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thayanithi15-git/thayanithi15-git/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thayanithi15-git/thayanithi15-git/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thayanithi15-git/thayanithi15-git/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 💖 **Show some love by starring my repositories!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" width="100%"/>
+
+</div>
