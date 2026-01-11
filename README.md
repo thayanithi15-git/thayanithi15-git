@@ -273,15 +273,15 @@ Deploying robust solutions on Google Cloud Platform
 <!-- Dynamic Contribution Visualization -->
 <div align="center">
   
-  ## 🔥 **CONTRIBUTION HEATMAP**
+  ## 🔥 **CONTRIBUTION GRAPH**
   
-  <img src="https://ghchart.rshah.org/00D9FF/thayanithi15-git" alt="GitHub Contribution Chart" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&bg_color=0d1117&color=00d9ff&line=667eea&point=ffd700&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="95%" />
   
 </div>
 
 <br/>
 
-<!-- 3D Contribution Graph -->
+<!-- 3D Skyline Contribution -->
 <div align="center">
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thayanithi15-git&theme=radical" width="90%" />
@@ -290,10 +290,19 @@ Deploying robust solutions on Google Cloud Platform
 
 <br/>
 
-<!-- Productive Time & Commit Stats -->
+<!-- Commit Stats & Language Breakdown -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thayanithi15-git&theme=radical&utcOffset=5.5" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thayanithi15-git&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thayanithi15-git&theme=radical" width="45%" />
+</div>
+
+<br/>
+
+<!-- Isometric Commit Calendar -->
+<div align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thayanithi15-git&theme=tokyonight" width="90%" />
+  
 </div>
 
 <br/>
