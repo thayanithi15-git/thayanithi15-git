@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Futuristic Venom Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=THAYANITHI&fontSize=90&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=THAYANITHI&fontSize=90&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -25,7 +25,9 @@
 
 <!-- Animated Typing Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Specialist+⚛️;Cloud+Solutions+Architect+☁️;Mobile+App+Developer+📱;API+Design+%26+Microservices+Expert+⚙️" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Specialist;Cloud+Solutions+Architect;Mobile+App+Developer;API+Design+and+Microservices+Expert" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
