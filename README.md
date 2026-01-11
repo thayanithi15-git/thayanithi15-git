@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- Epic 3D Header with Particle Effect -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=THAYANITHI&fontSize=100&fontAlignY=45&desc=⚡%20Crafting%20Digital%20Experiences%20⚡&descSize=25&descAlignY=70&animation=fadeIn&fontColor=fff&stroke=00D9FF&strokeWidth=2" width="100%"/>
+<!-- Custom Hero Banner with Borders -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=THAYANITHI&fontSize=100&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=65&fontColor=c4c4c4&animation=fadeIn&stroke=00D9FF&strokeWidth=3">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=THAYANITHI&fontSize=100&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=65&fontColor=c4c4c4&animation=fadeIn&stroke=00D9FF&strokeWidth=3" width="100%"/>
+</picture>
 
 </div>
 
 <br/>
 
-<!-- Glowing Profile Card -->
+<!-- Glowing Neon Border Card -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <br/>
