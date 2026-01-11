@@ -1,38 +1,22 @@
 <div align="center">
 
-<!-- Custom Hero Banner with Borders -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=THAYANITHI&fontSize=100&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=65&fontColor=c4c4c4&animation=fadeIn&stroke=00D9FF&strokeWidth=3">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=THAYANITHI&fontSize=100&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=65&fontColor=c4c4c4&animation=fadeIn&stroke=00D9FF&strokeWidth=3" width="100%"/>
-</picture>
+<!-- Futuristic Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=THAYANITHI&fontSize=90&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
 
+</div>
+
+<!-- Animated Typing Banner -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Thayanithi+%F0%9F%91%8B;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+Cloud+Solutions+%7C+Mobile+Apps" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
-<!-- Glowing Neon Border Card -->
+<!-- Profile Stats Cards -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<br/>
-
-<!-- Hero Section with Typewriter -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=HEY+THERE!+I'M+THAYANITHI+👋;FULL+STACK+DEVELOPER+💻;MERN+STACK+SPECIALIST+⚛️;CLOUD+SOLUTIONS+ARCHITECT+☁️" alt="Typing SVG" />
-  
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+the+future%2C+one+commit+at+a+time+🚀;Turning+coffee+into+code+since+day+one+☕;Innovation+%7C+Creativity+%7C+Excellence+✨" alt="Subtitle SVG" />
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <br/>
@@ -107,23 +91,6 @@ Deploying robust solutions on Google Cloud Platform
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- Work Highlights Section -->
-<div align="center">
-  
-  ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32"> **WORK HIGHLIGHTS**
-
-</div>
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|:--------|:------------|:-----------|:------|
-| 🏢 **EQREV Platform** | Web-based platform providing regional brand health insights<br/>with AI-driven data scraping & automation | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | 🔒 Private |
-
-</div>
 
 <br/>
 
@@ -205,7 +172,7 @@ Deploying robust solutions on Google Cloud Platform
 
 | 🎯 Milestone | 📈 Progress |
 |:------------|:-----------|
-| 🚀 **3+ Months Internship @ EQREV** | Full-stack development in production |
+| 🚀 **3+ Months Internship** | Full-stack development in production |
 | 💡 **#CrackYourInternship** | DSA problem-solving champion |
 | 🌟 **Open Source** | Active contributor & collaborator |
 | 🎨 **Project Portfolio** | Multiple production-ready applications |
