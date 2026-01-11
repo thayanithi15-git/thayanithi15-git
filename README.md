@@ -5,11 +5,27 @@
 
 </div>
 
+<br/>
+
+<!-- Introduction Text -->
+<div align="center">
+  <h3>
+    💻 Full Stack Developer | CSE'27 | Building the Future, One Commit at a Time 🚀
+  </h3>
+  <p>
+    <em>
+      Crafting scalable, user-centric applications with modern tech stacks.<br/>
+      Passionate about clean code, robust APIs, and high-performance digital solutions.<br/>
+      Transforming ideas into reality through hands-on experience and innovation.
+    </em>
+  </p>
+</div>
+
+<br/>
+
 <!-- Animated Typing Banner -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Thayanithi+%F0%9F%91%8B;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+Cloud+Solutions+%7C+Mobile+Apps" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Specialist+⚛️;Cloud+Solutions+Architect+☁️;Mobile+App+Developer+📱;API+Design+%26+Microservices+Expert+⚙️" alt="Typing SVG" />
 </div>
 
 <br/>
