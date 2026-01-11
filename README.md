@@ -270,25 +270,35 @@ Deploying robust solutions on Google Cloud Platform
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- Dynamic Contribution Visualization -->
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thayanithi15-git/thayanithi15-git/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thayanithi15-git/thayanithi15-git/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thayanithi15-git/thayanithi15-git/output/github-contribution-grid-snake.svg">
-  </picture>
+  ## 🔥 **CONTRIBUTION HEATMAP**
+  
+  <img src="https://ghchart.rshah.org/00D9FF/thayanithi15-git" alt="GitHub Contribution Chart" width="90%" />
   
 </div>
 
 <br/>
 
----
-
+<!-- 3D Contribution Graph -->
 <div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thayanithi15-git&theme=radical" width="90%" />
+  
+</div>
 
-### 💖 **Show some love by starring my repositories!** ⭐
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" width="100%"/>
+<!-- Productive Time & Commit Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thayanithi15-git&theme=radical&utcOffset=5.5" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thayanithi15-git&theme=radical" width="45%" />
+</div>
 
+<br/>
+
+<!-- Animated Waves Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
 </div>
