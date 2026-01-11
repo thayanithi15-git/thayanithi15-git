@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Futuristic Header -->
+<!-- Futuristic Venom Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=THAYANITHI&fontSize=90&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
@@ -94,6 +94,23 @@ Deploying robust solutions on Google Cloud Platform
 
 <br/>
 
+<!-- Work Highlights Section -->
+<div align="center">
+  
+  ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32"> **WORK HIGHLIGHTS**
+
+</div>
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|:--------|:------------|:-----------|:------|
+| 🏢 **EQREV Platform** | Web-based platform providing regional brand health insights<br/>with AI-driven data scraping & automation | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | 🔒 Private |
+
+</div>
+
+<br/>
+
 <div align="center">
   
   ## 🛠️ **TECH ARSENAL**
@@ -172,7 +189,7 @@ Deploying robust solutions on Google Cloud Platform
 
 | 🎯 Milestone | 📈 Progress |
 |:------------|:-----------|
-| 🚀 **3+ Months Internship** | Full-stack development in production |
+| 🚀 **3+ Months Internship @ EQREV** | Full-stack development in production |
 | 💡 **#CrackYourInternship** | DSA problem-solving champion |
 | 🌟 **Open Source** | Active contributor & collaborator |
 | 🎨 **Project Portfolio** | Multiple production-ready applications |
