@@ -1,22 +1,35 @@
 <div align="center">
 
-<!-- Futuristic Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=THAYANITHI&fontSize=90&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
+<!-- Epic 3D Header with Particle Effect -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=THAYANITHI&fontSize=100&fontAlignY=45&desc=⚡%20Crafting%20Digital%20Experiences%20⚡&descSize=25&descAlignY=70&animation=fadeIn&fontColor=fff&stroke=00D9FF&strokeWidth=2" width="100%"/>
 
-</div>
-
-<!-- Animated Typing Banner -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Thayanithi+%F0%9F%91%8B;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+Cloud+Solutions+%7C+Mobile+Apps" alt="Typing SVG" />
-  </a>
 </div>
 
 <br/>
 
-<!-- Profile Stats Cards -->
+<!-- Glowing Profile Card -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+<br/>
+
+<!-- Hero Section with Typewriter -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=HEY+THERE!+I'M+THAYANITHI+👋;FULL+STACK+DEVELOPER+💻;MERN+STACK+SPECIALIST+⚛️;CLOUD+SOLUTIONS+ARCHITECT+☁️" alt="Typing SVG" />
+  
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+the+future%2C+one+commit+at+a+time+🚀;Turning+coffee+into+code+since+day+one+☕;Innovation+%7C+Creativity+%7C+Excellence+✨" alt="Subtitle SVG" />
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <br/>
