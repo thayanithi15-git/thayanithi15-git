@@ -10,7 +10,7 @@
 <!-- Introduction Text -->
 <div align="center">
   <h3>
-    💻 Full Stack Developer | CSE'27 | Building the Future, One Commit at a Time 🚀
+    💻 Full Stack Engineer | CSE'27 | Building the Future, One Commit at a Time 🚀
   </h3>
   <p>
     <em>
@@ -26,7 +26,7 @@
 <!-- Animated Typing Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Specialist;Cloud+Solutions+Architect;Mobile+App+Developer;API+Design+and+Microservices+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Specialist;Frontend+Backend+Engineer;Mobile+App+Developer;API+Design+and+Microservices+Expert" alt="Typing SVG" />
   </a>
 </div>
 
