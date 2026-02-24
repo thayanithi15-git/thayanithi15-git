@@ -45,10 +45,13 @@ const thayanithi = {
   cgpa: 8.09,
   location: "India 🇮🇳",
   currentFocus: [
-    "SaaS Platform Development",
-    "Next.js & TypeScript",
-    "API Design & Cloud Solutions"
-  ],
+  "SaaS Platform Development",
+  "Next.js, TypeScript & Full-Stack Architecture",
+  "Backend Development (Node.js, Express, JWT, OAuth)",
+  "RESTful API Design & Integration",
+  "Database Design (PostgreSQL / MongoDB), Docker",
+  "Scalable System Design"
+]
   languages: ["Java", "TypeScript", "JavaScript", "Python", "C"],
   motto: "Code. Create. Innovate. Repeat."
 };
