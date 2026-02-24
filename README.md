@@ -25,11 +25,11 @@
 
 <br/>
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=thayanithi15-git&color=00D9FF&style=for-the-badge&label=VISITORS)
-  ![GitHub Followers](https://img.shields.io/github/followers/thayanithi15-git?label=FOLLOWERS&style=for-the-badge&color=667eea&logo=github)
-  ![GitHub Stars](https://img.shields.io/github/stars/thayanithi15-git?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thayanithi15-git&color=00D9FF&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+  <a href="https://github.com/thayanithi15-git?tab=followers"><img src="https://img.shields.io/github/followers/thayanithi15-git?label=FOLLOWERS&style=for-the-badge&color=667eea&logo=github" alt="GitHub Followers"/></a>
+  <a href="https://github.com/thayanithi15-git"><img src="https://img.shields.io/github/stars/thayanithi15-git?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars"/></a>
+</p>
 
 ---
 
@@ -153,10 +153,10 @@ const thayanithi = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="180"/>
+</p>
 
 ---
 
