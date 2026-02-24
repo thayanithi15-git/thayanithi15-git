@@ -37,6 +37,8 @@
 
 <img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
+<div style="margin-top: 30px;">
+
 ```typescript
 const thayanithi = {
   role: "Full Stack Developer",
@@ -44,15 +46,18 @@ const thayanithi = {
   institution: "Bannari Amman Institute of Technology",
   cgpa: 8.09,
   location: "India 🇮🇳",
+
   currentFocus: [
-  "SaaS Platform Development",
-  "Next.js, TypeScript & Full-Stack Architecture",
-  "Backend Development (Node.js, Express, JWT, OAuth)",
-  "RESTful API Design & Integration",
-  "Database Design (PostgreSQL / MongoDB), Docker",
-  "Scalable System Design"
-]
+    "SaaS Platform Development",
+    "Next.js, TypeScript & Full-Stack Architecture",
+    "Backend Development (Node.js, Express, JWT, OAuth)",
+    "RESTful API Design & Integration",
+    "Database Design (PostgreSQL / MongoDB), Docker",
+    "Scalable System Design"
+  ],
+
   languages: ["Java", "TypeScript", "JavaScript", "Python", "C"],
+
   motto: "Code. Create. Innovate. Repeat."
 };
 ```
