@@ -154,8 +154,13 @@ const thayanithi = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" height="175"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=html" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thayanithi15-git&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" height="175"/>
 </p>
 
 ---
