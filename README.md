@@ -66,11 +66,11 @@ const thayanithi = {
 | 🎨 **Full Stack Engineer** | **CRAYON'D** | Sep 2024 – Apr 2025 | Onsite |
 | 🌐 **Frontend Engineer** | **THINKUNI** | Oct 2025 – Jan 2026 | Remote |
 
-**EQREV** — Engineered a SaaS analytics platform giving brands pin-code level insights across 1,000+ stores on Zepto, Blinkit & Instamart. Adopted by D2C brands like Mee Mee, Ramraj, and Underneat.
+**EQREV** - Engineered a SaaS analytics platform giving brands pin-code level insights across 1,000+ stores on Zepto, Blinkit & Instamart. Adopted by D2C brands like Mee Mee, Ramraj, and Underneat.
 
-**CRAYON'D** — Delivered 2+ client-facing products with Next.js, BDD API testing & modular design, enabling 20% faster feature delivery.
+**CRAYON'D** - Delivered 2+ client-facing products with Next.js, BDD API testing & modular design, enabling 20% faster feature delivery.
 
-**THINKUNI** — Built a multi-role social networking platform (fashion, careers, entertainment) with role-based access control and cross-platform consistency.
+**THINKUNI** - Built a multi-role social networking platform (fashion, careers, entertainment) with role-based access control and cross-platform consistency.
 
 ---
 
@@ -90,7 +90,7 @@ const thayanithi = {
     </td>
     <td width="33%" valign="top">
       <h3>🧑‍💻 DEV RANK</h3>
-      <p>AI-powered developer ranking platform — connect GitHub & LeetCode profiles, get ranked, and get discovered by recruiters via smart matching & OTP-verified scraping.</p>
+      <p>AI-powered developer ranking platform - connect GitHub & LeetCode profiles, get ranked, and get discovered by recruiters via smart matching & OTP-verified scraping.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -169,10 +169,10 @@ const thayanithi = {
 
 | 🎯 | Highlight |
 |:--|:---------|
-| 🔢 | Solved **300+ problems** on LeetCode — strong DSA fundamentals |
+| 🔢 | Solved **300+ problems** on LeetCode - strong DSA fundamentals |
 | 💻 | **1.5K+ commits** across projects and internships on GitHub |
-| 📜 | **NPTEL Java Certification** — 90% score (OOP fundamentals) |
-| 🥇 | **Sakthi Hackathon Finalist** — selected among 1,000+ participants |
+| 📜 | **NPTEL Java Certification** - 90% score (OOP fundamentals) |
+| 🥇 | **Sakthi Hackathon Finalist** - selected among 1,000+ participants |
 
 ---
 
