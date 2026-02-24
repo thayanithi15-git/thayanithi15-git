@@ -154,9 +154,9 @@ const thayanithi = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" height="175"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thayanithi15-git&theme=radical" height="175"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=html" height="175"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thayanithi15-git&theme=radical" height="175"/>
 </p>
 
 <p align="center">
