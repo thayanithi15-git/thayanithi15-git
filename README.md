@@ -49,7 +49,7 @@ const thayanithi = {
     "Next.js & TypeScript",
     "API Design & Cloud Solutions"
   ],
-  languages: ["TypeScript", "JavaScript", "Java", "Python", "C"],
+  languages: ["Java", "TypeScript", "JavaScript", "Python", "C"],
   motto: "Code. Create. Innovate. Repeat."
 };
 ```
