@@ -178,7 +178,7 @@ const thayanithi = {
 | 🎯 | Highlight |
 |:--|:---------|
 | 🔢 | Solved **300+ problems** on LeetCode - strong DSA fundamentals |
-| 💻 | **1.5K+ commits** across projects and internships on GitHub |
+| 💻 | **2K+ commits** across projects and internships on GitHub |
 | 📜 | **NPTEL Java Certification** - 90% score (OOP fundamentals) |
 | 🥇 | **Sakthi Hackathon Finalist** - selected among 1,000+ participants |
 
