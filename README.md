@@ -1,5 +1,7 @@
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=THAYANITHI&fontSize=90&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=THAYANITHI%20S&fontSize=80&fontAlignY=45&desc=Full%20Stack%20Software%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Problem%20Solver&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -19,7 +21,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+%7C+Next.js+%7C+TypeScript;SaaS+Platform+Builder;REST+APIs+%7C+Microservices+%7C+Cloud;300%2B+LeetCode+Problems+Solved;1.5K%2B+GitHub+Commits" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Next.js+%7C+React+Native+%7C+TypeScript;SaaS+Platform+Builder;Node.js+%7C+Express.js+%7C+Go+%7C+GCP;300%2B+LeetCode+Problems+Solved;2K%2B+GitHub+Commits" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,24 +43,22 @@
 
 ```typescript
 const thayanithi = {
-  role: "Full Stack Developer",
-  education: "B.E. Computer Science Engineering (2027)",
+  role: "Full Stack Software Engineer",
+  education: "B.E. Computer Science Engineering (2023 - 2027)",
   institution: "Bannari Amman Institute of Technology",
-  cgpa: 8.09,
-  location: "India 🇮🇳",
+  cgpa: 8.2,
+  location: "Namakkal, Tamil Nadu, India 🇮🇳",
 
   currentFocus: [
     "SaaS Platform Development",
     "Next.js, TypeScript & Full-Stack Architecture",
-    "Backend Development (Node.js, Express, JWT, OAuth)",
-    "RESTful API Design & Integration",
-    "Database Design (PostgreSQL / MongoDB), Docker",
-    "Scalable System Design"
+    "Backend & APIs (Node.js, Express, Go, JWT, OAuth)",
+    "Database Optimizations (PostgreSQL, MongoDB)",
+    "Cloud Deployments (GCP, BigQuery, Vercel, Cloudflare)"
   ],
 
-  languages: ["Java", "TypeScript", "JavaScript", "Python", "C"],
-
-  motto: "Code. Create. Innovate. Repeat."
+  languages: ["TypeScript", "JavaScript", "Java", "Python", "C"],
+  motto: "The best way to predict the future is to create it."
 };
 ```
 
@@ -68,17 +68,36 @@ const thayanithi = {
 
 ## 💼 Internship Experience
 
-| Role | Company | Duration | Type |
-|:-----|:--------|:---------|:-----|
-| 🏢 **Software Developer** *(Product & Platform Dev)* | **EQREV – Sai Sakthi Enterprises** | Jan 2025 – Dec 2025 | Hybrid |
-| 🎨 **Full Stack Engineer** | **CRAYON'D** | Sep 2024 – Apr 2025 | Onsite |
-| 🌐 **Frontend Engineer** | **THINKUNI** | Oct 2025 – Jan 2026 | Remote |
+<table>
+  <tr>
+    <th align="left">Role</th>
+    <th align="left">Company</th>
+    <th align="left">Duration</th>
+    <th align="left">Type</th>
+  </tr>
+  <tr>
+    <td>🏢 <strong>Software Developer</strong> <em>(Product Dev)</em></td>
+    <td><strong>EQREV – Sai Sakthi Enterprises</strong></td>
+    <td>Jan 2025 – Dec 2025</td>
+    <td>Hybrid</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Full Stack Engineer</strong></td>
+    <td><strong>Crayon'd</strong></td>
+    <td>Sep 2024 – Apr 2025</td>
+    <td>Onsite</td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>Frontend Engineer</strong></td>
+    <td><strong>Thinkuni</strong></td>
+    <td>Oct 2025 – Jan 2026</td>
+    <td>Remote</td>
+  </tr>
+</table>
 
-**EQREV** - Engineered a SaaS analytics platform giving brands pin-code level insights across 1,000+ stores on Zepto, Blinkit & Instamart. Adopted by D2C brands like Mee Mee, Ramraj, and Underneat.
-
-**CRAYON'D** - Delivered 2+ client-facing products with Next.js, BDD API testing & modular design, enabling 20% faster feature delivery.
-
-**THINKUNI** - Built a multi-role social networking platform (fashion, careers, entertainment) with role-based access control and cross-platform consistency.
+* **EQREV** - Engineered a SaaS analytics platform giving brands pin-code level insights across 1,000+ stores on Zepto, Blinkit & Instamart. Adopted by D2C brands like Mee Mee, Ramraj, and Underneat.
+* **CRAYON'D** - Delivered 2+ client-facing products with Next.js, BDD API testing & modular design, enabling 20% faster feature delivery.
+* **THINKUNI** - Built a multi-role student dashboard and learning visualization interface using Vue.js.
 
 ---
 
@@ -86,33 +105,55 @@ const thayanithi = {
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🔐 CNC VAULT</h3>
       <p>Centralized CNC/PLC backup system with version control, role-based machine assignment, live reporting & failure alerts. Improved operational efficiency by <strong>70%</strong>.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
+        <a href="https://cnc-machines.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0078d4?style=flat-square&logo=microsoft&logoColor=white" alt="Live Demo"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🧑‍💻 DEV RANK</h3>
       <p>AI-powered developer ranking platform - connect GitHub & LeetCode profiles, get ranked, and get discovered by recruiters via smart matching & OTP-verified scraping.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
+        <a href="https://github.com/thayanithi15-git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web Scraping-FF6B35?style=flat-square"/>
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📊 EQ REV</h3>
       <p>Scalable multi-product analytics platform with OTP login, role-based auth, real-time trend visualizations powered by BigQuery & Cloudflare.</p>
       <p>
+        <a href="https://app.eqrev.com/"><img src="https://img.shields.io/badge/Live_Demo-0078d4?style=flat-square&logo=microsoft&logoColor=white" alt="Live Demo"/></a>
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Zustand-orange?style=flat-square"/>
         <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 PROGRESS IQ</h3>
+      <p>Real-time monitoring & analytics dashboard featuring live data sync, AI-driven productivity insights, and centralized collaboration workspace.</p>
+      <p>
+        <a href="https://progress-iq.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0078d4?style=flat-square&logo=microsoft&logoColor=white" alt="Live Demo"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -122,38 +163,69 @@ const thayanithi = {
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,c&theme=dark"/>
+### Languages & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,python,c,react,nextjs,vue,html,css,tailwind,redux&theme=dark" />
+  </a>
 </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,redux&theme=dark"/>
+### Backend, Databases & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,mysql,postgresql,firebase,gcp,docker,vercel,cloudflare&theme=dark" />
+  </a>
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,mysql,postgresql,firebase&theme=dark"/>
-</p>
-
-### Tools & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,vercel,docker,postman,figma,vscode&theme=dark"/>
+### Development Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" />
+  </a>
 </p>
 
 <details>
 <summary><b>📦 Full Tech Stack Breakdown</b></summary>
 <br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React.js, Next.js, Vue.js, React Native, HTML5, CSS3, Tailwind CSS, Material-UI, Zustand, Redux |
-| **Backend** | Node.js, Express.js, Fastify, REST APIs, JWT, Middleware, Microservices |
-| **Databases** | MongoDB, MySQL, PostgreSQL, BigQuery, Sequelize |
-| **Cloud & Infra** | Google Cloud Platform, Vercel, Onrender, Cloudflare, Firebase |
-| **Languages** | TypeScript, JavaScript, Java, Python, C |
-| **Dev Tools** | VS Code, Git, GitHub, Postman, Swagger, Figma, BDD, Web Scraping |
+<table>
+  <tr>
+    <td width="30%"><strong>Frontend & Mobile</strong></td>
+    <td>React.js, Next.js (SSR/CSR), Vue.js, React Native (Bridge/Native Modules), Flutter, HTML5, CSS3, Tailwind CSS, Material-UI</td>
+  </tr>
+  <tr>
+    <td><strong>State Management</strong></td>
+    <td>Zustand, Redux, Context Providers, State Hydration</td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Runtimes</strong></td>
+    <td>Node.js (Event Loop, Cluster, Worker Threads), Express.js, Fastify, REST APIs, Microservices</td>
+  </tr>
+  <tr>
+    <td><strong>Databases & ORMs</strong></td>
+    <td>MongoDB, MySQL, PostgreSQL, BigQuery, Prisma, Sequelize</td>
+  </tr>
+  <tr>
+    <td><strong>Testing & Scraping</strong></td>
+    <td>BDD Testing, Unit and Integration suites, Web Scraping (Data collection engines)</td>
+  </tr>
+  <tr>
+    <td><strong>Security & Auth</strong></td>
+    <td>JWT Authentication, OAuth, Role-Based Access Control (RBAC), SSL Encryption</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Infra</strong></td>
+    <td>Google Cloud Platform (GCP), Vercel, Onrender, Cloudflare, Firebase, Docker</td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>TypeScript, JavaScript, Java (OOP), Python, C</td>
+  </tr>
+  <tr>
+    <td><strong>Developer Tools</strong></td>
+    <td>VS Code, Git, GitHub, Postman, Swagger, Figma</td>
+  </tr>
+</table>
 
 </details>
 
@@ -168,19 +240,35 @@ const thayanithi = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thayanithi15-git&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" height="175"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thayanithi15-git&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" height="175"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-| 🎯 | Highlight |
-|:--|:---------|
-| 🔢 | Solved **300+ problems** on LeetCode - strong DSA fundamentals |
-| 💻 | **2K+ commits** across projects and internships on GitHub |
-| 📜 | **NPTEL Java Certification** - 90% score (OOP fundamentals) |
-| 🥇 | **Sakthi Hackathon Finalist** - selected among 1,000+ participants |
+<table>
+  <tr>
+    <td width="10%" align="center">🔢</td>
+    <td>Solved <strong>300+ problems</strong> on LeetCode - strong DSA fundamentals</td>
+  </tr>
+  <tr>
+    <td width="10%" align="center">💻</td>
+    <td><strong>2K+ commits</strong> across projects and internships on GitHub</td>
+  </tr>
+  <tr>
+    <td width="10%" align="center">📜</td>
+    <td><strong>NPTEL Java Certification</strong> - 90% score (OOP fundamentals)</td>
+  </tr>
+  <tr>
+    <td width="10%" align="center">🥇</td>
+    <td><strong>Sakthi Hackathon Finalist</strong> - selected among 1,000+ participants</td>
+  </tr>
+</table>
 
 ---
 
@@ -195,6 +283,8 @@ const thayanithi = {
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1glUE-aanYT9BwxvJBjoAIVynuLLqm12N/view)
 
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
