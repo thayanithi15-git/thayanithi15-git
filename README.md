@@ -253,18 +253,8 @@ const thayanithi = {
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6EC7&point=FFD700&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thayanithi15-git&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🏆 Achievements
 
