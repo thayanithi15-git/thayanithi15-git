@@ -1,4 +1,9 @@
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+body, p, li, td, th, blockquote, div, span, a, b, i, strong, em, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+}
+</style>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=THAYANITHI%20S&fontSize=80&fontAlignY=45&desc=Full%20Stack%20Software%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Problem%20Solver&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
@@ -33,7 +38,7 @@
   <a href="https://github.com/thayanithi15-git"><img src="https://img.shields.io/github/stars/thayanithi15-git?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars"/></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 👤 About Me
 
@@ -62,13 +67,15 @@ const thayanithi = {
 };
 ```
 
+</div>
+
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 💼 Internship Experience
 
-<table>
+<table width="100%">
   <tr>
     <th align="left">Role</th>
     <th align="left">Company</th>
@@ -99,11 +106,11 @@ const thayanithi = {
 * **CRAYON'D** - Delivered 2+ client-facing products with Next.js, BDD API testing & modular design, enabling 20% faster feature delivery.
 * **THINKUNI** - Built a multi-role student dashboard and learning visualization interface using Vue.js.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 CNC VAULT</h3>
@@ -158,8 +165,6 @@ const thayanithi = {
     </td>
   </tr>
 </table>
-
----
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -245,29 +250,37 @@ const thayanithi = {
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
----
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thayanithi15-git&theme=radical" height="175"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thayanithi15-git&theme=radical" height="175"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6EC7&text_color=ffffff&border_radius=14" width="100%"/>
+</td>
+<td width="50%" valign="top">
+<img src="https://streak-stats.demolab.com?user=thayanithi15-git&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=14" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=14" width="100%"/>
+</td>
+<td width="50%" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thayanithi15-git&theme=radical" width="100%"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6EC7&point=FFD700&hide_border=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thayanithi15-git&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" height="175"/>
-</p>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🏆 Achievements
 
-<table>
+<table width="100%">
   <tr>
     <td width="10%" align="center">🔢</td>
     <td>Solved <strong>300+ problems</strong> on LeetCode - strong DSA fundamentals</td>
@@ -286,7 +299,7 @@ const thayanithi = {
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🤝 Let's Connect
 
