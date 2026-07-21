@@ -1,9 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
-body, p, li, td, th, blockquote, div, span, a, b, i, strong, em, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', sans-serif;
-}
-</style>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=THAYANITHI%20S&fontSize=80&fontAlignY=45&desc=Full%20Stack%20Software%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Problem%20Solver&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
