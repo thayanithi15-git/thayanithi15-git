@@ -249,23 +249,19 @@ const thayanithi = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thayanithi15-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6EC7&text_color=FFFFFF&include_all_commits=true&count_private=true&cache_seconds=1800" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=thayanithi15-git&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=thayanithi15-git&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" />
-
-  <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thayanithi15-git&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanithi15-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6EC7&point=FFD700&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thayanithi15-git&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6EC7&point=FFD700&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thayanithi15-git&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thayanithi15-git&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
